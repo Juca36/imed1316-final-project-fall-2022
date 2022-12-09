@@ -1,0 +1,15 @@
+:root {
+  /*colors */
+  /* file:///C:/Users/cantu/Desktop/IMED%201316/IMED-1316-colors.pdf */
+  /*
+60% of #2289DD -Dominant 
+30% of #AA29DF -Secondary
+10%
+*/
+
+  --dominantColor: #2289dd; /* var(--dominantColor) !important; */
+  --secondaryColor: #aa29df; /* var(--secondaryColor) !important; */
+  --accentColor: #d4e646; /* var(--accentColor) !important; */
+
+  --boxShadow: 0 0 20px rgba(0, 0, 0, 0.35); /* var(--boxShadow) !important; */
+}
